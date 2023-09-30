@@ -11,6 +11,7 @@
 		51C191C82AC87C87003F3E7F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C191C72AC87C87003F3E7F /* ContentView.swift */; };
 		51C191CA2AC87C89003F3E7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51C191C92AC87C89003F3E7F /* Assets.xcassets */; };
 		51C191CE2AC87C89003F3E7F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 51C191CD2AC87C89003F3E7F /* Preview Assets.xcassets */; };
+		51C191D52AC89494003F3E7F /* Extra Challege View Modifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51C191D42AC89494003F3E7F /* Extra Challege View Modifier.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		51C191C92AC87C89003F3E7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		51C191CB2AC87C89003F3E7F /* General_Practise_App.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = General_Practise_App.entitlements; sourceTree = "<group>"; };
 		51C191CD2AC87C89003F3E7F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		51C191D42AC89494003F3E7F /* Extra Challege View Modifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extra Challege View Modifier.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				51C191C52AC87C87003F3E7F /* General_Practise_AppApp.swift */,
 				51C191C72AC87C87003F3E7F /* ContentView.swift */,
+				51C191D42AC89494003F3E7F /* Extra Challege View Modifier.swift */,
 				51C191C92AC87C89003F3E7F /* Assets.xcassets */,
 				51C191CB2AC87C89003F3E7F /* General_Practise_App.entitlements */,
 				51C191CC2AC87C89003F3E7F /* Preview Content */,
@@ -141,6 +144,7 @@
 			files = (
 				51C191C82AC87C87003F3E7F /* ContentView.swift in Sources */,
 				51C191C62AC87C87003F3E7F /* General_Practise_AppApp.swift in Sources */,
+				51C191D52AC89494003F3E7F /* Extra Challege View Modifier.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
